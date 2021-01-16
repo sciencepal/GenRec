@@ -1,0 +1,7 @@
+DNN -> binary_crossentropy
+
+CNN :( -> categorical_crossentropy
+Glove vector
+gensim - > word2vec
+meka_waka
+LSTM GRU
